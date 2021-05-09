@@ -1,0 +1,12 @@
+The Total Accuracy for Epoch 0: 55.32
+Training Loss Epoch: 0.6814058376312255
+Training Accuracy Epoch: 55.32
+
+Validation Loss Epoch: 0.6618041560649872
+Validation Accuracy Epoch: 63.0
+Validation Macro F1: 0.6200280152317419
+
+Best 
+Accuracy: 63.0 
+Macro F1 Score: 0.6200280152317419
+At Epoch: 1

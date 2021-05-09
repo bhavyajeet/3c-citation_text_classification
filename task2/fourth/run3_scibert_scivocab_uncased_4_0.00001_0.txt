@@ -1,0 +1,84 @@
+The Total Accuracy for Epoch 0: 56.92
+Training Loss Epoch: 0.6788136487960815
+Training Accuracy Epoch: 56.92
+
+Validation Loss Epoch: 0.6753724284172058
+Validation Accuracy Epoch: 57.2
+Validation Macro F1: 0.5032589924049693
+
+The Total Accuracy for Epoch 1: 70.36
+Training Loss Epoch: 0.5723889443039895
+Training Accuracy Epoch: 70.36
+
+Validation Loss Epoch: 0.7433444867134095
+Validation Accuracy Epoch: 60.2
+Validation Macro F1: 0.5464387464387465
+
+The Total Accuracy for Epoch 2: 85.68
+Training Loss Epoch: 0.35096846454292535
+Training Accuracy Epoch: 85.68
+
+Validation Loss Epoch: 0.7088560883402825
+Validation Accuracy Epoch: 66.2
+Validation Macro F1: 0.661836328783131
+
+The Total Accuracy for Epoch 3: 95.64
+Training Loss Epoch: 0.13532169652618467
+Training Accuracy Epoch: 95.64
+
+Validation Loss Epoch: 1.0364692350178957
+Validation Accuracy Epoch: 64.4
+Validation Macro F1: 0.6351202873120254
+
+The Total Accuracy for Epoch 4: 98.0
+Training Loss Epoch: 0.062225034677330406
+Training Accuracy Epoch: 98.0
+
+Validation Loss Epoch: 1.1931637288704515
+Validation Accuracy Epoch: 65.6
+Validation Macro F1: 0.6533152734778122
+
+The Total Accuracy for Epoch 5: 98.88
+Training Loss Epoch: 0.037483528103958816
+Training Accuracy Epoch: 98.88
+
+Validation Loss Epoch: 1.4471607342865318
+Validation Accuracy Epoch: 65.2
+Validation Macro F1: 0.6442067036364528
+
+The Total Accuracy for Epoch 6: 98.56
+Training Loss Epoch: 0.04468659490817226
+Training Accuracy Epoch: 98.56
+
+Validation Loss Epoch: 1.3805932142008095
+Validation Accuracy Epoch: 66.6
+Validation Macro F1: 0.6650232076735761
+
+The Total Accuracy for Epoch 7: 99.56
+Training Loss Epoch: 0.017670589141565142
+Training Accuracy Epoch: 99.56
+
+Validation Loss Epoch: 1.5214795237806975
+Validation Accuracy Epoch: 66.6
+Validation Macro F1: 0.662204530100206
+
+The Total Accuracy for Epoch 8: 99.36
+Training Loss Epoch: 0.02049596979576454
+Training Accuracy Epoch: 99.36
+
+Validation Loss Epoch: 1.6556393035687507
+Validation Accuracy Epoch: 65.2
+Validation Macro F1: 0.6516432827215068
+
+The Total Accuracy for Epoch 9: 99.4
+Training Loss Epoch: 0.01770046559157345
+Training Accuracy Epoch: 99.4
+
+Validation Loss Epoch: 1.6786427435912192
+Validation Accuracy Epoch: 64.6
+Validation Macro F1: 0.6428441710958025
+
+Best 
+Accuracy: 66.6 
+Macro F1 Score: 0.6650232076735761
+At Epoch: 7
