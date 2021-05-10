@@ -48,4 +48,4 @@ The training code can be run by `python3 fifth.py <file prefix>`
 
 
 ### Authors
-@him-mah10 and @bhavyajeet29
+[@him-mah10](https://github.com/him-mah10) and [@bhavyajeet](https://github.com/bhavyajeet)
